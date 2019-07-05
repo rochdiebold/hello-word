@@ -1,2 +1,2 @@
 # hello-word
-optional description
+Ceci est une description
